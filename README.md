@@ -3,7 +3,8 @@ This repository contains an end-to-end deep learning workflow implemented in Ten
 The script follows a structured workflow divided into data ingestion, exploratory visualization, augmentation, experimental architecture evaluation, and deployment.
 
 
-## 🛠️ Code Architecture & Core Workflow## 1. Library Ecosystem & Imports 📚
+## 🛠️ Code Architecture & Core Workflow
+## 1. Library Ecosystem & Imports 📚
 * Purpose: Sets up the development workspace.
 * Details: Imports TensorFlow/Keras layers for deep modeling, alongside standard computer vision (cv2), data matrix handling (numpy, pandas), and graph plotting (matplotlib) libraries.
 
